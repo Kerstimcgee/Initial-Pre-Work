@@ -1,0 +1,9 @@
+/* we learned that every hmtl page has a body element! Although we hadn't yet
+tagged in in our html before putting it as a css class! */
+
+<style>
+  body {
+  background-color: black;
+}
+
+</style>
