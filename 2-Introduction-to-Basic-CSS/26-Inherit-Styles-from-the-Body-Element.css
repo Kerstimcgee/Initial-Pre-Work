@@ -1,0 +1,11 @@
+/* We learned that still, without a body element, the html elements
+inherit the css element of "body" */
+
+<style>
+  body {
+    background-color: green;
+    color:green;
+    font-family: monospace;
+  }
+</style>
+<h1>Hello World</h1>
