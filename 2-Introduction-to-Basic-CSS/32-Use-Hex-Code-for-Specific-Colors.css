@@ -1,0 +1,7 @@
+/* we learned about using RBG color hex numbers instead of color names
+in our css class */
+<style>
+  body {
+    background-color: #000000;
+  }
+</style>
