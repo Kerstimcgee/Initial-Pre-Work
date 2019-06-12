@@ -1,0 +1,13 @@
+/* Classes applied to the html elements IN the html code directly take precidence over elements
+written in the css named after html tags (such as p tags).*/
+<style>
+  body {
+    background-color: black;
+    font-family: monospace;
+    color: green;
+  }
+  .pink-text {
+    color: pink;
+  }
+</style>
+<h1 class="pink-text">Hello World!</h1>
