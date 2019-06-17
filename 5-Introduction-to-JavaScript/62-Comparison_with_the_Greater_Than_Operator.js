@@ -1,4 +1,4 @@
-//use greater than operator, learn to compare true/false this way.
+//use greater than operator, return string this way.
 function testGreaterThan(val) {
   if (val>100) {  // Change this line
     return "Over 100";
